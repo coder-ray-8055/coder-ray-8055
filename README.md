@@ -24,4 +24,13 @@ Currently, I am focused on mastering Data Science while continuing to strengthen
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/coder-ray-8055"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ray-8055&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<p align="start">
+
+<img src="https://github-readme-stats-2345678.vercel.app/api?username=coder-ray-8055&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true"/>
+
+<img src="https://github-readme-stats-2345678.vercel.app/api/top-langs/?username=coder-ray-8055&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ray-8055&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+
+</p>
